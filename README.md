@@ -1,2 +1,2 @@
-# data_visualization_proj
+# javascript_proj
 Contains Data Analysis Projects
